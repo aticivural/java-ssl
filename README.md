@@ -11,3 +11,4 @@ source websites:
 # CA, SSL
 - https://www.youtube.com/watch?v=33VYnE7Bzpk
 - https://medium.com/@rajanmaharjan/secure-your-mongodb-connections-ssl-tls-92e2addb3c89
+- http://support.sas.com/documentation/cdl/en/secref/69831/HTML/default/viewer.htm#p0gy97oedcx0fin1n83srxchqpzk.htm
