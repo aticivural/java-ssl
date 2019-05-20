@@ -8,5 +8,6 @@ source websites:
 - https://docs.oracle.com/cd/E19830-01/819-4712/ablqw/index.html
 - https://www.infoworld.com/article/3304289/how-to-configure-tomcat-to-always-require-https.html
 
+# CA, SSL
 - https://www.youtube.com/watch?v=33VYnE7Bzpk
 - https://medium.com/@rajanmaharjan/secure-your-mongodb-connections-ssl-tls-92e2addb3c89
